@@ -11,11 +11,11 @@ Second, Python version.
 2. If you will use python code, than you just need to run the code.
 3. If you will use JS code than try this code in console.
 
-```
+``` node.js
 node Decoder.js
 ```
 or
-```
+``` node.js
 node Encoder.js
 ```
 
